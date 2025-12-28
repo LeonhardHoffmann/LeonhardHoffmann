@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning advanced ts<br>🎯 Goals: fullstack developer<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning advanced ts<br>🎯 Goals: fullstack developer<br>🎲 Fun fact: Most of the code for the Apollo 11 moon landing was handwritten</p>
 
 ###
 
