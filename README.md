@@ -15,7 +15,7 @@ Focused on building scalable, user-centric, and high-quality applications.
 ###
 
 <p align="left">
-✨ Creating bugs since 2024<br>
+✨ Since 2024<br>
 📚 Currently learning advanced TypeScript and improving fullstack architecture skills<br>
 🎯 Goal: Become a professional fullstack developer<br>
 🌱 Active Open Source Contributor<br>
